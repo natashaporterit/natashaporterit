@@ -9,6 +9,13 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/natashaporterit/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/natashaporterit/azure-network-protocols)
+- <b>VPN Configuration and Remote Connectivity</b>
+  - [Established secure VPN tunnels between remote clients and Azure resources](https://github.com/natashaporterit/VPN-tunnel)
+- <b>DNS and Network Services</b>
+  - [Installed and configured DNS zones and records to support domain resolution](https://github.com/natashaporterit/DNS-resolution)
+- <b>File Sharing and Permissions Management</b>
+  - [Set up Windows file shares with NTFS and share permissions for user access control](https://github.com/natashaporterit/Fileshare-permissions)
+
 
 <h2>Connect with me:</h2>
 
