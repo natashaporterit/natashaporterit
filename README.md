@@ -6,6 +6,8 @@
   - [osTicket: Prerequisites and Installation](https://github.com/natashaporterit/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/natashaporterit/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/natashaporterit/ticket-lifecycle)
+ 
+- <b>Google Workspace User and Resource Management</b>
 
 <h2>Connect with me:</h2>
 
