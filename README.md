@@ -7,7 +7,12 @@
   - [osTicket: Post-Installation Configuration](https://github.com/natashaporterit/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/natashaporterit/ticket-lifecycle)
  
-- <b>Google Workspace User and Resource Management</b>
+- <b>Associate Google Workspace Administrator Certification</b>
+ - [Google Workspace User and Resource Management](https://github.com/natashaporterit/osticket-prereqs)
+  - [Google Workspace Core Services](https://github.com/natashaporterit/post-install-config)
+  - [Google Workspace Data Governance](https://github.com/natashaporterit/ticket-lifecycle)
+  - [Google Workspace Security](https://github.com/natashaporterit/post-install-config)
+  - [Google Workspace Troubleshooting](https://github.com/natashaporterit/ticket-lifecycle)
 
 <h2>Connect with me:</h2>
 
