@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/natashaporterit/ticket-lifecycle)
  
 - <b>Associate Google Workspace Administrator Certification</b>
- - [Google Workspace User and Resource Management](https://github.com/natashaporterit/osticket-prereqs)
+  - [Google Workspace User and Resource Management](https://github.com/natashaporterit/osticket-prereqs)
   - [Google Workspace Core Services](https://github.com/natashaporterit/post-install-config)
   - [Google Workspace Data Governance](https://github.com/natashaporterit/ticket-lifecycle)
   - [Google Workspace Security](https://github.com/natashaporterit/post-install-config)
