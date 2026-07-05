@@ -9,7 +9,7 @@
  
 - <b>Associate Google Workspace Administrator Certification</b>
   - [Google Workspace User and Resource Management](https://github.com/natashaporterit/user-and-resource-management.git)
-  - [Google Workspace Core Services](https://github.com/natashaporterit/Core-Services.git)
+  - [Google Workspace Core Services](https://github.com/natashaporterit/Core-Service)
   - [Google Workspace Data Governance](https://github.com/natashaporterit/Data-Governance.git)
   - [Google Workspace Security](https://github.com/natashaporterit/Security)
   - [Google Workspace Troubleshooting](https://github.com/natashaporterit/Troubleshooting)
