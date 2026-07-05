@@ -12,7 +12,7 @@
   - [Google Workspace Core Services](https://github.com/natashaporterit/Core-Services.git)
   - [Google Workspace Data Governance](https://github.com/natashaporterit/Data-Governance.git)
   - [Google Workspace Security](https://github.com/natashaporterit/Security)
-  - [Google Workspace Troubleshooting](https://github.com/natashaporterit/ticket-lifecycle)
+  - [Google Workspace Troubleshooting](https://github.com/natashaporterit/Troubleshooting)
 
 <h2>Connect with me:</h2>
 
