@@ -1,4 +1,4 @@
-<h1>Hi, I'm Natasha, an <a href="https://linkedin.com/in/natasha-porter-1765b31b0/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Natasha, an <a href="https://linkedin.com/in/natasha-porter-1765b31b0/">Google Workspace Administrator | IT Help Desk Technician</a>☺</h1>
 
 <h2>Information Technology Projects:</h2>
 
