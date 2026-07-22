@@ -13,6 +13,10 @@
   - [Google Workspace Data Governance](https://github.com/natashaporterit/Data-Governance.git)
   - [Google Workspace Security](https://github.com/natashaporterit/Security)
   - [Google Workspace Troubleshooting](https://github.com/natashaporterit/Troubleshooting)
+ 
+- <b>Google Workspace Essentials</b>
+  - [Google Workspace Essentials]
+
 
 <h2>Connect with me:</h2>
 
