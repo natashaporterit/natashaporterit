@@ -16,7 +16,6 @@
  
 - <b>Google Workspace Essentials</b>
   - [Google Workspace Essentials](https://github.com/natashaporterit/Google-Workspace-Essentials)
-  - 
 
 
 <h2>Connect with me:</h2>
