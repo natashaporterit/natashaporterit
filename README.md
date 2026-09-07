@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/natashaporterit/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/natashaporterit/ticket-lifecycle)
  
-  - - <b>School District Projects</b>
+- <b>School District Projects</b>
   - [Google Forms Questionnaire](https://github.com/natashaporterit/School-District-Projects)
  
 - <b>Associate Google Workspace Administrator Certification</b>
