@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/natashaporterit/ticket-lifecycle)
  
   - - <b>School District Projects</b>
-  - [Google Forms Questionnaire](https://github.com/natashaporterit/user-and-resource-management.git)
+  - [Google Forms Questionnaire](https://github.com/natashaporterit/School-District-Projects)
  
 - <b>Associate Google Workspace Administrator Certification</b>
   - [Google Workspace User and Organizational Units](https://github.com/natashaporterit/user-and-resource-management.git)
